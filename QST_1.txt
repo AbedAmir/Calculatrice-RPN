@@ -1,0 +1,11 @@
+Listes des cas d'erreur : 
+	*L'utilisateur entre un nombre < MIN_VALUE. -->FAIT
+	*L'utilisateur entre un nombre > MAX_VALUE. -->FAIT
+	*L'utilisateur entre une autre operation que (+)(-)(*)(/). --> FAIT
+	*L'utilisateur entre une chaine vide
+	*L'utilisateur entre seulement des operandes ou un nombre insufissant d'operande (nombre d'operande<2 "Verifier la pile") --> FAIT
+	
+	*L'utilisateur entre des nombre et des operandes en meme temps --> FAIT 
+	*Division sur 0. --> FAIT
+
+	
